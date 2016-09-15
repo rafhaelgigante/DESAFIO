@@ -1,0 +1,1 @@
+redefina os valores em "funcoes", para adicionar os valores ao estoque
